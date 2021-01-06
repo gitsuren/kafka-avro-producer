@@ -21,7 +21,7 @@ server:
 # Application information
 info:
   app:
-    name: Kafka Producer Application
+    name: Suru Kafka Producer Application
     description: Read messages from twitter and push it to kafka (Alternative to Kafka Connect)
     version: 1.0.0
 
